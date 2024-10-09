@@ -60,3 +60,7 @@ button:hover{
     align-items: center;
     margin-bottom: 15px;
 }
+
+.checkbox-container input{
+    margin-right: 5px;
+}
